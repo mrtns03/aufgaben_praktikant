@@ -1,21 +1,33 @@
-# aufgaben_praktikant
+# Willkommen zu deinem ersten Projekt!
 
-Die erste Aufgabe ist es dir dieses Repository zu klonen.
-Dafür musst du auf deinem Laptop Git CMD öffnen
+## Aufgabe 1: Repository klonen
 
-Danach führst du diesen Befehl aus:
+### Schritt 1: Git CMD öffnen
+- Öffne auf deinem Laptop die Git CMD (Command Line Interface).
 
-        cd Desktop
+### Schritt 2: Zum Desktop wechseln
+- Gib den folgenden Befehl ein, um in den Desktop-Ordner zu wechseln:
+    ```bash
+    cd Desktop
+    ```
 
-Jetzt bist du im Ordner Desktop.
-Als nächstes folgt dieser Befehl:
+### Schritt 3: Repository klonen
+- Führe den folgenden Befehl aus, um das Repository zu klonen:
+    ```bash
+    git clone https://github.com/mrtns03/aufgaben_praktikant.git
+    ```
 
-        git clone gihttps://github.com/mrtns03/aufgaben_praktikant.git
+- Glückwunsch! Du hast das Repository erfolgreich geklont. Auf deinem Desktop sollte jetzt ein Ordner namens `aufgaben_praktikant` erscheinen.
 
-Damit hast du jetzt auf dem Desktop einen Ordner aufgaben_praktikant.
-Du hast das erste mal ein Github-Repository gecloned!
+## Aufgabe 2: Projekt in Visual Studio Code öffnen
 
-Öffne nun Visual Studio Code.
-Oben links auf File gehen -> Open Folder -> aufgaben_praktikant auswählen
+### Schritt 1: Visual Studio Code öffnen
+- Starte Visual Studio Code.
 
-Weitere Infos gibt es jetzt wenn du die Datei aufgaben.html in einem Browser öffnest.
+### Schritt 2: Ordner öffnen
+- Klicke oben links auf **File** (Datei) und wähle **Open Folder** (Ordner öffnen).
+- Navigiere zum Ordner `aufgaben_praktikant` auf deinem Desktop und wähle ihn aus.
+
+## Weitere Informationen
+
+- Um mehr Informationen zu erhalten und die nächste Aufgabe zu sehen, öffne die Datei `aufgaben.html` in einem Browser.
