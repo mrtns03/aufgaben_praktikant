@@ -3,7 +3,7 @@
 Die erste Aufgabe ist es dir dieses Repository zu klonen.
 Dafür musst du auf deinem Laptop Git CMD öffnen
 
-Danach tippst du diesen Befehl aus:
+Danach führst du diesen Befehl aus:
 
         cd Desktop
 
