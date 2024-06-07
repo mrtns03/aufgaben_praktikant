@@ -18,4 +18,4 @@ Du hast das erste mal ein Github-Repository gecloned!
 Öffne nun Visual Studio Code.
 Oben links auf File gehen -> Open Folder -> aufgaben_praktikant auswählen
 
-Weitere Infos gibt es jetzt im Projekt selber.
+Weitere Infos gibt es jetzt wenn du die Datei aufgaben.html in einem Browser öffnest.
