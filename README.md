@@ -31,6 +31,9 @@
 ## Weitere Informationen
 
 - Um mehr Informationen zu erhalten und die nächste Aufgabe zu sehen, öffne die Datei `aufgaben.html` in einem Browser.
+- Die beigefügten Dateien sind nur Beispiele wie man es machen könnte
+- Du kannst deiner Kreativität freien Lauf lassen
+- Natürlich kannst du auch mal gucken wie Probleme dort gelöst wurden aber Ziel ist es den Lebenslauf selber zu erarbeiten
 
 ## Tipp
 
