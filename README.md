@@ -31,3 +31,7 @@
 ## Weitere Informationen
 
 - Um mehr Informationen zu erhalten und die nächste Aufgabe zu sehen, öffne die Datei `aufgaben.html` in einem Browser.
+
+## Tipp
+
+- Wenn du nicht weiterkommst, ist Google immer eine gute Hilfe. Zögere nicht zu fragen, wenn du Unterstützung benötigst.
