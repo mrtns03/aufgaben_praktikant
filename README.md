@@ -9,6 +9,7 @@ Danach tippst du diesen Befehl aus:
 
 Jetzt bist du im Ordner Desktop.
 Als nächstes folgt dieser Befehl:
+
         git clone gihttps://github.com/mrtns03/aufgaben_praktikant.git
 
 Damit hast du jetzt auf dem Desktop einen Ordner aufgaben_praktikant.
