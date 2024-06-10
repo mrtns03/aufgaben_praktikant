@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <script src="index.js"></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lebenslauf</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <img src="profilbild.jpeg" alt="Profilbild von Max Mustermann" class="profilbild">
+            <h1>Max Mustermann</h1>
+            <p>Adresse: Musterstraße 1, 12345 Musterstadt</p>
+            <p>Email: max@mustermann.de | Telefon: 0123 456789</p>
+        </header>
+        <section>
+            <h2>Berufserfahrung</h2>
+            <div>
+                <h3>Softwareentwickler bei Beispiel GmbH</h3>
+                <p>Januar 2020 - Heute</p>
+                <ul>
+                    <li>Entwicklung von Webanwendungen</li>
+                    <li>Wartung bestehender Systeme</li>
+                </ul>
+            </div>
+            <div>
+                <h3>Praktikant bei Tech Solutions</h3>
+                <p>Juni 2019 - Dezember 2019</p>
+                <ul>
+                    <li>Unterstützung bei der Entwicklung von internen Tools</li>
+                    <li>Testen von Softwarelösungen</li>
+                </ul>
+            </div>
+        </section>
+        <section>
+            <h2>Ausbildung</h2>
+            <div>
+                <h3>Bachelor in Informatik</h3>
+                <p>Universität Musterstadt, 2015 - 2019</p>
+            </div>
+        </section>
+        <section >
+            <h2>Fähigkeiten</h2>
+            <ul id="experienceList">
+                <li>HTML & CSS</li>
+                <li>JavaScript</li>
+                <li>Python</li>
+            </ul>
+            <div class="input-group">
+                <input type="text" id="experienceName" placeholder="Name der Berufserfahrung">
+                <button class="add-button" onclick="addNamedExperience()">Berufserfahrung hinzufügen</button>
+            </div>
+        <section>
+            <h2>Hobbys und Interessen</h2>
+            <ul>
+                <li>Lesen</li>
+                <li>Reisen</li>
+                <li>Programmieren</li>
+            </ul>
+        </section>
+    </div>
+</body>
+</html>

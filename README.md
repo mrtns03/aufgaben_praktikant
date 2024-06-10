@@ -31,7 +31,8 @@
 ## Weitere Informationen
 
 - Um mehr Informationen zu erhalten und die nächste Aufgabe zu sehen, öffne die Datei `aufgaben.html` in einem Browser.
-- Die beigefügten Dateien sind nur Beispiele wie man es machen könnte
+- Die beigefügten Dateien im Ordner "beispiel" sind nur Beispiele wie man es machen könnte
+- Du kannst im Ordner ressources arbeiten und dort "mein_lebenslauf.html" benutzen
 - Du kannst deiner Kreativität freien Lauf lassen
 - Natürlich kannst du auch mal gucken wie Probleme dort gelöst wurden aber Ziel ist es den Lebenslauf selber zu erarbeiten
 
